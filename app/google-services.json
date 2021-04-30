@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22664899088",
+    "firebase_url": "https://surakshakavach-b6ba9.firebaseio.com",
+    "project_id": "surakshakavach-b6ba9",
+    "storage_bucket": "surakshakavach-b6ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22664899088:android:e9dca83137dfb408c67895",
+        "android_client_info": {
+          "package_name": "com.example.asus.surakshakavach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22664899088-9qaqoslfb2u8op6r659smi997oj0p389.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.surakshakavach",
+            "certificate_hash": "e08510ca68f7291b262874cb9146c61f4952a4dd"
+          }
+        },
+        {
+          "client_id": "22664899088-q78skf1nh35puenkaipmp6mhr6q7p6rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecot2SAZ11tmNHsdI-kMeLiulyqRh3yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22664899088-q78skf1nh35puenkaipmp6mhr6q7p6rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
